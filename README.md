@@ -1,4 +1,4 @@
-## TMDB Front-end Projext for Appcent
+## TMDB Front-end Project for Appcent
 
 Install npm via cmd;
 
